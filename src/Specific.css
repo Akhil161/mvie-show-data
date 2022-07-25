@@ -1,0 +1,17 @@
+.specific{
+    height: 100%;
+    width: 100%;
+}
+.box1{
+    width: 80%;
+    margin: 2% 10%;
+    display: flex;
+
+}
+.img-container-s{
+    width: auto;
+    height: auto;
+}
+.data-container-s{
+    margin-left: 2%;
+}
